@@ -1,0 +1,17 @@
+{
+  "name": "graphql-project",
+  "version": "1.0.0",
+  "description": "A graphql project using javascript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Elias Adjetey",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.11.0",
+    "graphql": "^16.9.0"
+  }
+}
